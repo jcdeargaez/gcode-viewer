@@ -1,0 +1,5 @@
+header {
+    background: #000 url("/logo.svg") no-repeat 0 6px;
+    color: #fff;
+    padding: 0 1em 0 13em;
+}

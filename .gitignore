@@ -1,0 +1,6 @@
+# aon3d
+.idea
+__pycache__
+
+# aon3d-ui
+node_modules

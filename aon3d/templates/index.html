@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>AON3D Coding Challenge</title>
+    </head>
+    <body>
+        <h1>AON3D Viewer</h1>
+        <p>Select your model file in G-Code format to view its statistics and layers.</p>
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <input type="file" id="file" name="file" accept=".gcode" />
+            <button type="submit">View</button>
+        </form>
+    </body>
+</html>

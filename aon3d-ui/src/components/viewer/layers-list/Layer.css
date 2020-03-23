@@ -1,0 +1,10 @@
+.Layer {
+    padding: 0.5em 0;
+    cursor: default;
+    position: relative;
+}
+
+.Layer.active {
+    background-color: royalblue;
+    color: #fff;
+}
